@@ -9,7 +9,7 @@ gym==0.15.4
 kiwisolver==1.1.0
 matplotlib==3.1.2
 mccabe==0.6.1
-numpy==1.18.1
+numpy==1.22.0
 opencv-python==4.1.2.30
 pandas==0.25.3
 Pillow==7.0.0
